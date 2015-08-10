@@ -13,11 +13,11 @@ a:focus,
 a:hover,
 a.light:hover,
 a.dark:hover {
-  color: #1abc9c;
+  color: #ebb40d;
 }
 .text-primary,
 .text-primary:hover {
-  color: #1abc9c;
+  color: #ebb40d;
 }
 h1,
 h2,
@@ -1483,8 +1483,8 @@ fieldset[disabled] .btn-info.btn-bordered.active {
 }
 .navbar-standard.opaque .navbar-nav > li > a:hover,
 .navbar-standard.opaque .navbar-nav > li > a:focus {
-  color: #1abc9c;
-  border-color: #1abc9c;
+  color: #ebb40d;
+  border-color: #ebb40d;
 }
 .navbar-standard.opaque .navbar-nav > li.open > a,
 .navbar-standard.opaque .navbar-nav > li.active > a,
@@ -1492,8 +1492,8 @@ fieldset[disabled] .btn-info.btn-bordered.active {
 .navbar-standard.opaque .navbar-nav > li.active > a:hover,
 .navbar-standard.opaque .navbar-nav > li.open > a:focus,
 .navbar-standard.opaque .navbar-nav > li.active > a:focus {
-  color: #1abc9c;
-  border-color: #1abc9c;
+  color: #ebb40d;
+  border-color: #ebb40d;
 }
 .navbar-standard.opaque .navbar-toggle {
   color: #222222;
