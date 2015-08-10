@@ -1502,7 +1502,7 @@ fieldset[disabled] .btn-info.btn-bordered.active {
   color: #ffffff;
 }
 .navbar-standard .search_button:after {
-  background-color: #1abc9c;
+  background-color: rgb(235, 180, 13);
 }
 /* End Navbar Standard */
 /* Start Navbar Light */
