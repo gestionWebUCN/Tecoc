@@ -1428,7 +1428,7 @@ fieldset[disabled] .btn-info.btn-bordered.active {
   border-left-color: #cccccc;
 }
 .navbar .dropdown-submenu:hover > a:after {
-  border-left-color: #1abc9c;
+  border-left-color: #ebb40d;
 }
 .navbar .dropdown-menu > li > a {
   border-bottom: 1px solid #eeeeee;
@@ -1436,7 +1436,7 @@ fieldset[disabled] .btn-info.btn-bordered.active {
 }
 .navbar .dropdown-menu > li > a:hover,
 .navbar .dropdown-menu > li > a:focus {
-  color: #1abc9c;
+  color: #ebb40d;
 }
 .navbar .dropdown-menu > .active > a,
 .navbar .dropdown-menu > .active > a:hover,
@@ -1453,8 +1453,8 @@ fieldset[disabled] .btn-info.btn-bordered.active {
 }
 .navbar-standard .navbar-nav > li > a:hover,
 .navbar-standard .navbar-nav > li > a:focus {
-  color: #1abc9c;
-  border-color: #1abc9c;
+  color: #ebb40d;
+  border-color: #ebb40d;
 }
 .navbar-standard .navbar-nav > li.open > a,
 .navbar-standard .navbar-nav > li.active > a,
@@ -1462,14 +1462,14 @@ fieldset[disabled] .btn-info.btn-bordered.active {
 .navbar-standard .navbar-nav > li.active > a:hover,
 .navbar-standard .navbar-nav > li.open > a:focus,
 .navbar-standard .navbar-nav > li.active > a:focus {
-  color: #1abc9c;
-  border-color: #1abc9c;
+  color: #ebb40d;
+  border-color: #ebb40d;
 }
 .navbar-standard .navbar-nav .badge {
   background: #1abc9c;
 }
 .navbar-standard .navbar-nav .dropdown-menu {
-  border-color: #1abc9c;
+  border-color: #ebb40d;
 }
 .navbar-standard .navbar-toggle {
   color: #ffffff;
@@ -1499,7 +1499,7 @@ fieldset[disabled] .btn-info.btn-bordered.active {
   color: #222222;
 }
 .navbar-standard .search_button {
-  color: #ffffff;
+  color: #000;
 }
 .navbar-standard .search_button:after {
   background-color: rgb(235, 180, 13);
