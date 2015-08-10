@@ -450,7 +450,7 @@ hr.slim {
     color: #fff;
 }
 .page-wrapper{
-	margin-top:30px;
+	margin-top:90px;
 }
 .page-wrapper .page-sidebar h3.title {
     font-size: 20px;
@@ -976,7 +976,7 @@ hr.slim {
 /* 07.1 Standard Navigation
    ---------------------------------------------------------------------------*/
 .navbar-standard {
-  background: transparent;
+  background: #555;
 }
 .navbar-standard .navbar-brand .logo-white {
   display: block;
