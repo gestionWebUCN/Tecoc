@@ -455,7 +455,7 @@ hr.slim {
 .page-wrapper .page-sidebar h3.title {
     font-size: 20px;
     margin-bottom: 15px;
-    margin-top: 1px solid #333;
+    margin-top: 0;
 }
 .page-wrapper .page-sidebar .widget {
     margin-bottom: 30px;
