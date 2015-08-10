@@ -978,7 +978,7 @@ hr.slim {
 /* 07.1 Standard Navigation
    ---------------------------------------------------------------------------*/
 .navbar-standard {
-   background-color: rgb(235, 180, 13);
+  background: #000;
 }
 .navbar-standard .navbar-brand .logo-white {
   display: block;
