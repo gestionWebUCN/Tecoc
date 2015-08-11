@@ -121,9 +121,9 @@ p strong {
   background-image: linear-gradient(90deg, #dddddd 1px, transparent 1px);
 }
 .section-shade {
-  background-image: linear-gradient(to bottom, transparent 0, #000000 130%);
+  background-image: linear-gradient(to bottom, transparent 0, #EBB40D 130%);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#ff000000', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#EBB40D', GradientType=0);
 }
 .parallax {
   background-color: #222222;
