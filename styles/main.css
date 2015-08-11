@@ -2405,6 +2405,10 @@ label.error {
     content: "\e080";    /* adjust as needed, taken from bootstrap.css */
 }
 
+.sin-padding{
+	
+	padding: 0 !important;
+}
 
 /*comentario*/
 
