@@ -20,8 +20,8 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.cursos > li > a > i{
-	color: #ebb40d;
+.cursos{
+	color: #ebb40d !important;
 }
 
 /* makes the font 33% larger relative to the icon container */
