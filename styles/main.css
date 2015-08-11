@@ -2410,6 +2410,15 @@ label.error {
 	padding: 0 !important;
 }
 
+.sin-padding > h4 > a{
+    display: block;
+    padding: 10px;
+}
+
+.fa-search{
+	color:#000 !important;
+}
+
 /*comentario*/
 
 /*Comentario Diego */
