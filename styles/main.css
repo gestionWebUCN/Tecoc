@@ -497,6 +497,7 @@ hr.slim {
 .sep-top-5x {
   padding-top: 16em;
 }
+
 .sep-bottom-xs {
   padding-bottom: 1.5em;
 }
@@ -520,6 +521,9 @@ hr.slim {
 }
 .sep-bottom-5x {
   padding-bottom: 16em;
+}
+.sep-bottom-6x {
+    padding-bottom: 25em;
 }
 .no-padding {
   padding: 0;
@@ -2417,6 +2421,30 @@ label.error {
 
 .fa-search{
 	color:#000 !important;
+}
+
+.baja-img{
+ 	padding: 20.5em;
+}
+
+.fondo-quienes{
+	
+	background: url(../img/programas/img-quienes-somos.png) no-repeat;
+
+}
+
+.color-amarillo{
+	
+	color: #ebb40d !important; 	
+}
+
+.borde-amarillo{
+	    border-left: 5px solid #ebb40d !important;
+    display: inline-block;
+    font-size: 26px;
+    margin-top: 0;
+    text-align: left;
+    padding-left: 14px;
 }
 
 /*comentario*/

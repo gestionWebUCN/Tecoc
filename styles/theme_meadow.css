@@ -125,9 +125,9 @@ p strong {
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#EBB40D', endColorstr='#1ABC9C', GradientType=0);
 }
-.parallax {
+/*.parallax {
   background-color: #222222;
-}
+}*/
 .rating-input i,
 .rate i {
   color: #1abc9c;
