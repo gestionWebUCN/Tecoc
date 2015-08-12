@@ -2447,6 +2447,13 @@ label.error {
     padding-left: 14px;
 }
 
+.fondo-gris{
+	background: #e4e4e4 !important;
+	height: 362px !important;
+	margin-top: 40px;
+
+}
+
 /*comentario*/
 
 /*Comentario Diego */
