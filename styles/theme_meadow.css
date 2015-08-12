@@ -1449,7 +1449,7 @@ fieldset[disabled] .btn-info.btn-bordered.active {
   border-bottom: 1px solid rgba(255, 255, 255, 0.25);
 }
 .navbar-standard .navbar-nav > li > a {
-  color: #ffffff;
+  color: #BBB;
 }
 .navbar-standard .navbar-nav > li > a:hover,
 .navbar-standard .navbar-nav > li > a:focus {
